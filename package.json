@@ -103,7 +103,7 @@
     "eslint-loader": "^4.0.2",
     "exports-loader": "^1.1.1",
     "file-loader": "^6.2.0",
-    "handlebars-loader": "^1.7.1",
+    "handlebars-loader": "^1.7.3",
     "jest": "^26.6.3",
     "jsdom": "^20.0.2",
     "sass": "^1.49.9",
